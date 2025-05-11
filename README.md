@@ -66,5 +66,15 @@ Key Features:
   - Component reuse
   - Easy developer handoff
   - Cloud-based with version history
-- Why Figma
-  Figma streamlines the process of creating, reviewing, and updating wireframes, making it ideal for collaborative teams in     fast-paced environments.
+    
+Why Figma?
+- Figma streamlines the process of creating, reviewing, and updating wireframes, making it ideal for collaborative teams in     fast-paced environments.
+
+
+## Benefits of Wireframing in Software Development
+Wireframes, being visual drafts, also serve critical functions throughout the development lifecycle:
+- Guide the Design Process: Wireframes provide a visual map that designers and developers follow, ensuring consistency with     user expectations.
+- Facilitate Communication: Teams, clients, and stakeholders use wireframes to align on requirements and features early.
+- Spot Usability Issues Early: Before committing to high-fidelity designs or code, flaws in user flow or layout can be caught   and fixed.
+- Save Time and Resources: Making changes in wireframes is faster and cheaper than modifying code or final UI assets.
+
