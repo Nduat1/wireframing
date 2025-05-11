@@ -24,7 +24,7 @@ Making changes to a wireframe is significantly faster and cheaper than modifying
 Wireframes establish a clear structure that guides UI design, prototyping, and front-end development. They help ensure all team members understand the project scope and requirements from the beginning.
 
 
-## 🧱 Key Elements of a Wireframe
+## Key Elements of a Wireframe
 Wireframes include several key components that work together to define the user interface:
 - Layout Structure: Defines the arrangement of elements on the page.
   Example: A homepage can contain a header, a main section, and a footer.
@@ -49,3 +49,22 @@ High-Fidelity Wireframes: More detailed and refined versions, often closer to th
 
 The type of Wireframing in the this mockup is a high-fidelity wireframe because it includes specific layout details, design elements, and realistic content that closely represent the final user interface. 
 
+
+## Popular Wireframing Tools
+There are several tools available for wireframing, including:
+- Figma
+- Adobe XD
+- Sketch
+- Balsamiq
+- Wireframe.cc
+
+### Recommended Tool: Figma
+Figma is a powerful, browser-based design tool widely used for wireframing, prototyping, and UI design.  
+Key Features:
+  - Real-time collaboration
+  - Intuitive interface
+  - Component reuse
+  - Easy developer handoff
+  - Cloud-based with version history
+- Why Figma
+  Figma streamlines the process of creating, reviewing, and updating wireframes, making it ideal for collaborative teams in     fast-paced environments.
