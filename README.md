@@ -46,5 +46,6 @@ High-Fidelity Wireframes: More detailed and refined versions, often closer to th
 
 ### Airbnb Clone Project - Type of wireframe used
 [Airbnb Mockup](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&t=RuD9bnEEJzcH7KHJ-1)
+
 The type of Wireframing in the this mockup is a high-fidelity wireframe because it includes specific layout details, design elements, and realistic content that closely represent the final user interface. 
 
