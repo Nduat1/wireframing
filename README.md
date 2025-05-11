@@ -66,7 +66,6 @@ Key Features:
   - Component reuse
   - Easy developer handoff
   - Cloud-based with version history
-    
 Why Figma?
 - Figma streamlines the process of creating, reviewing, and updating wireframes, making it ideal for collaborative teams in     fast-paced environments.
 
@@ -78,3 +77,28 @@ Wireframes, being visual drafts, also serve critical functions throughout the de
 - Spot Usability Issues Early: Before committing to high-fidelity designs or code, flaws in user flow or layout can be caught   and fixed.
 - Save Time and Resources: Making changes in wireframes is faster and cheaper than modifying code or final UI assets.
 
+
+## Real-World Scenario
+In a real-world scenario during the early design phase of an online booking system, the UI/UX team created high-fidelity wireframes using Figma. These wireframes detailed the layout and user flow for booking appointments, including selecting a service, choosing a time slot, and entering user details.
+
+### Identified Usability Issue
+While reviewing the wireframes with stakeholders and potential users, one major issue surfaced:  
+- The navigation between steps in the booking process was unclear. 
+Users were unsure whether they could go back and modify previous selections or how many steps remained in the process. This caused confusion and raised concerns about user drop-offs during booking.
+
+### Resolution Through Wireframing
+Since the issue was caught during the wireframing phase, the design team was able to quickly make adjustments. They:
+- Introduced a visible **progress bar** at the top of the booking form to indicate how many steps were required.
+- Added **"Back" and "Next"** buttons to each step with clear labels.
+- Included brief instructions at each step to guide the user.
+
+These improvements were implemented directly into the Figma wireframe and tested again with users, who responded positively and were able to complete the booking flow without confusion.
+
+### Impact on the Final Product
+By resolving this issue at the wireframing stage:
+- **Development time was saved**, as the change did not require rewriting any code.
+- **User experience improved**, leading to smoother navigation and a higher completion rate during testing.
+- The development team had a **clearer reference** for the intended flow and layout, reducing miscommunication.
+
+### Conclusion
+This scenario highlights how wireframing acts as a critical checkpoint in the design process. By visualizing and testing the interface early, teams can detect and fix usability flaws before they become expensive development problems. Ultimately, wireframing ensures that the product is both functional and user-friendly, laying a solid foundation for successful software development.
